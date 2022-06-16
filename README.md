@@ -3,7 +3,7 @@ Hi, I'm an 17 years old student, located in Danmark, and with an passion for cod
 
 ### What am i doing 🤔
 I'm currently a student at [MG](https://www.mercantec.dk/uddannelser/gymnasiale-uddannelser/htx) in Viborg, Danmark.
-On the side, Im also trying to learn to code, to become an developer in the future. 
+And on the side, guy who's learning to code, to become an developer in the future. 
 #### Im am currently learning 🌱
 - sql 
 - redis
