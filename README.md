@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋
+Hi, I'm an 17 years old student, located in Danmark, and with an passion for coding.
 
-<!--
-**imkowalski/imkowalski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What am i doing 🤔
+I'm currently a student at [MG](https://www.mercantec.dk/uddannelser/gymnasiale-uddannelser/htx) in Viborg, Danmark.
+On the side, Im also trying to learn to code, to become an developer in the future. 
+#### Im am currently learning 🌱
+- sql 
+- redis
+- nginx
+- C#
+- node.js (more in depth knowledge)
 
-Here are some ideas to get you started:
+#### But i can already comfortably program/use 💻
+- css/html
+- Javascript
+- Python
+- GDscript (Godot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun Fact ✨
+The original version of Monopoly was a cautionary tale against the perils of capitalism.
