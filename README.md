@@ -14,8 +14,10 @@ And on the side, guy who's learning to code, to become an developer in the futur
 #### But i can already comfortably program/use 💻
 - css/html
 - Javascript
+- Typescript
 - Python
 - GDscript (Godot)
+- node.js
 
 ### Fun Fact ✨
 The original version of Monopoly was a cautionary tale against the perils of capitalism.
