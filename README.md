@@ -11,7 +11,7 @@ And on the side, guy who's learning to code, to become an developer in the futur
 - C#
 - Node.js (more in depth knowledge)
 
-#### But i can already comfortably program/use 💻
+#### I can already comfortably program/use 💻
 - CSS/HTML
 - Javascript
 - Typescript
