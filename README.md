@@ -21,3 +21,6 @@ And on the side, guy who's learning to code, to become an developer in the futur
 
 ### Fun Fact ✨
 Did you know that wild chimps also like to have a pine [🙉🍻🐵](https://bestlifeonline.com/animal-facts/#:~:text=Wild%20chimps%20like%20to%20drink.)
+<br>
+### Contact Me
+My mail: [(michal@kowal.dk)](mailto:michal@kowal.dk)
