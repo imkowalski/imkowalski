@@ -20,4 +20,4 @@ And on the side, guy who's learning to code, to become an developer in the futur
 - node.js
 
 ### Fun Fact ✨
-The original version of Monopoly was a cautionary tale against the perils of capitalism.
+Did you know that wild chimps also like to have a pine [🙉🍻🐵](https://bestlifeonline.com/animal-facts/#:~:text=Wild%20chimps%20like%20to%20drink.)
