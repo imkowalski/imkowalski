@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi, I'm an 17 years old student, located in Danmark, with an passion for coding.
+Hi, I'm an 17 years old student, situated in Danmark, with an passion for coding.
 
 ### What am i doing 🤔
 I'm currently a student at [MG](https://www.mercantec.dk/uddannelser/gymnasiale-uddannelser/htx) in Viborg, Danmark. <br>
