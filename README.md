@@ -5,11 +5,7 @@ Hi, I'm an 17 years old student, situated in Danmark, with an passion for coding
 I'm currently a student at [MG](https://www.mercantec.dk/uddannelser/gymnasiale-uddannelser/htx) in Viborg, Danmark. <br>
 And on the side, guy who's learning to code, to become an developer in the future. 
 
-### My Three Pricipels
-(that i defintetally didn't steal from the internet)
-- Make it work
-- Make it beautiful
-- Make it efficient
+
 
 #### Im am currently learning 🌱
 - SQL
@@ -29,8 +25,11 @@ And on the side, guy who's learning to code, to become an developer in the futur
 #### My most used languages
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=imkowalski&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=imkowalski&layout=compact&theme=radical)
 
-### Fun Fact ✨
-Did you know that wild chimps also like to have a pine [🙉🍻🐵](https://bestlifeonline.com/animal-facts/#:~:text=Wild%20chimps%20like%20to%20drink.)
-<br>
+### My Three Pricipels
+(that i defintetally didn't steal from the internet)
+- Make it work
+- Make it beautiful
+- Make it efficient
+
 ### Contact Me
 My mail: [(michal@kowal.dk)](mailto:michal@kowal.dk)
