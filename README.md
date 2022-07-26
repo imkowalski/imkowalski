@@ -4,6 +4,13 @@ Hi, I'm an 17 years old student, situated in Danmark, with an passion for coding
 ### What am i doing 🤔
 I'm currently a student at [MG](https://www.mercantec.dk/uddannelser/gymnasiale-uddannelser/htx) in Viborg, Danmark. <br>
 And on the side, guy who's learning to code, to become an developer in the future. 
+
+### My Three Pricipels
+(that i defintetally didn't steal from the internet)
+- Make it work
+- Make it beautiful
+- Make it efficient
+
 #### Im am currently learning 🌱
 - SQL
 - Redis
