@@ -32,4 +32,4 @@ And on the side, guy who's learning to code, to become an developer in the futur
 - Make it efficient
 
 ### Contact Me
-My mail: [(michal@kowal.dk)](mailto:michal@kowal.dk)
+My mail: [(kowal@outlook.dk)](mailto:kowal@outlook.dk)
