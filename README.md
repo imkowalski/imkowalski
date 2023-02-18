@@ -8,28 +8,14 @@ And on the side, guy who's learning to code, to become an developer in the futur
 
 
 #### Im am currently learning 🌱
-- SQL
+- MongoDB
 - Redis
 - NGINX
 - C#
-- Node.js (more in depth knowledge)
-
-#### I can already comfortably program/use 💻
-- CSS/HTML
-- Javascript
-- Typescript
-- Python
-- GDscript (Godot)
-- Node.js
 
 #### My most used languages
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=imkowalski&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=imkowalski&layout=compact&theme=radical)
 
-### My Three Pricipels
-(that i defintetally didn't steal from the internet)
-- Make it work
-- Make it beautiful
-- Make it efficient
 
 ### Contact Me
 My mail: [(kowal@outlook.dk)](mailto:kowal@outlook.dk)
