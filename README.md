@@ -14,7 +14,7 @@ And on the side, guy who's learning to code, to become an developer in the futur
 - C#
 
 #### My most used languages
-![https://github-readme-stats.vercel.app/api/top-langs/?username=imkowalski&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=imkowalski&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkowalski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Contact Me
