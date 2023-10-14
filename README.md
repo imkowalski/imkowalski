@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there 👋
 Hi, I'm an 17 years old student, situated in Danmark, with an interest for coding.
 
 ### What am i doing 
